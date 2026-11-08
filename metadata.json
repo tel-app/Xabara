@@ -1,0 +1,10 @@
+{
+  "name": "LIXIE — Architectural Furniture",
+  "description": "Bespoke wooden, smoked glass, and structural steel furniture atelier with real-time 3D, AR room preview, VR motion graphics, and direct checkout.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
